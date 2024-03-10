@@ -114,7 +114,7 @@ function App() {
 				<nav class="navbar navbar-light bg-dark navbar-css">
 					<a class="navbar-brand icon-frame" href="/">
 						<img className="icon" src={require("./Image/icon.jpg")} alt="" />
-						<span className="navbar-title">What to Watch</span>
+						<span className="navbar-title">CinéSelect</span>
 					</a>
 				</nav>
 				{isOpen ? <Description handleClose={togglePopup} /> : null}
@@ -172,7 +172,6 @@ function App() {
 					>
 						<ArrowBackIosIcon />
 					</button>
-
 					<p className="page-count p-2">
 						{page} /{totalPages}
 					</p>

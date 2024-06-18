@@ -20,7 +20,7 @@ Well, If you enter the genre that you like, we will find movies for you accordin
 ## Installation
 Download the repository using:  
 ```
-git clone https://github.com/2802AdityA/What-to-Watch
+git clone 
 ```
 
 Change the directory:  
